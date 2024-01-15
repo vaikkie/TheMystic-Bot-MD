@@ -7,7 +7,7 @@ import fetch from 'node-fetch';
 import axios from 'axios';
 import moment from 'moment-timezone';
 
-global.botnumber = ""
+global.botnumber = "56961633927"
 
 global.owner = [
   ['5219992095479', '👑 Mystic - Creador 👑', true],
@@ -38,8 +38,8 @@ global.owner = [
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
+global.packname = 'ᅟ©  🇸🇦  𝗘𝗩͜𝖠̶̷𝖭.';
+global.author = 'شيطان';
 global.wm = 'The Mystic - Bot';
 global.titulowm = 'The Mystic - Bot';
 global.titulowm2 = `The Mystic - Bot`
