@@ -38,9 +38,9 @@ global.owner = [
 global.suittag = ['5219993404349'];
 global.prems = ['51995386439'];
 
-global.packname = 'Sticker';
-global.author = 'The Mystic - Bot';
-global.wm = 'The Mystic - Bot';
+global.packname = '©  🇸🇦  𝗘𝗩͜𝖠̶̷𝖭.';
+global.author = 'شيطان';
+global.wm = '©  🇸🇦  𝗘𝗩͜𝖠̶̷𝖭.';
 global.titulowm = 'The Mystic - Bot';
 global.titulowm2 = `The Mystic - Bot`
 global.igfg = 'The Mystic - Bot';
